@@ -71,7 +71,6 @@ No installation or hardware required. Launch **LarkOke Player** directly in your
 | **Vocal Recording & Canvas** | MediaStream Recording API & Web Audio API Gain/Filter Nodes |
 | **Cloud Storage & CDN** | [Cloudflare R2](https://www.cloudflare.com/products/r2/) & [Vercel](https://vercel.com/) |
 | **Desktop Runtime** | [Electron](https://www.electronjs.org/) |
-| **Frontend Tooling & Bundler** | [Vite](https://vitejs.dev/) |
 
 ---
 
