@@ -7,11 +7,11 @@
   **Turn any browser, desktop, or TV into a full-featured Videoke machine.**
 
   <p align="center">
-    <a href="https://larkokeprivate.vercel.app" target="_blank">
+    <a href="https://larkoke.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Web_App-LarkOke_Player-FF2E93?style=for-the-badge" alt="Live Website" />
     </a>
-    <a href="https://larkokeprivate.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/🎵_Song_Library-47,997_Tracks-00D2FF?style=for-the-badge" alt="Song Library" />
+    <a href="https://larkoke.vercel.app/songbook" target="_blank">
+      <img src="https://img.shields.io/badge/🎵_Song_Library-47,997_Tracks-00D2FF?style=for-the-badge" alt="Song Book" />
     </a>
     <a href="#-interface-preview">
       <img src="https://img.shields.io/badge/🚧_Status-Public_Beta-FFB800?style=for-the-badge" alt="Status" />
@@ -34,7 +34,7 @@ No installation or hardware required. Launch **LarkOke Player** directly in your
 
 <div align="center">
   <br />
-  <a href="https://larkokeprivate.vercel.app" target="_blank">
+  <a href="https://larkoke.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🎤_PLAY_NOW-Launch_LarkOke_Web_Player-FF2E93?style=for-the-badge&labelColor=121212&logo=applemusic&logoColor=white" alt="Launch LarkOke Player" height="52" />
   </a>
   <p>
