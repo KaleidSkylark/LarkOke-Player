@@ -4,7 +4,7 @@
   <!-- <img src="public/logo.png" alt="LarkOke Player Logo" width="120" height="120" /> -->
 
   # 🎤 LarkOke Player
-  **Turn any browser, desktop, or TV into a full-featured Videoke machine.**
+  **Turn any browser or desktop into a full-featured Videoke machine.**
 
   <p align="center">
     <a href="https://larkoke.vercel.app" target="_blank">
@@ -15,9 +15,6 @@
     </a>
     <a href="#-interface-preview">
       <img src="https://img.shields.io/badge/🚧_Status-Public_Beta-FFB800?style=for-the-badge" alt="Status" />
-    </a>
-    <a href="LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge" alt="License" />
     </a>
     <a href="https://github.com/KaleidSkylark" target="_blank">
       <img src="https://img.shields.io/badge/Built_By-KaleidSkylark-7B2CBF?style=for-the-badge" alt="Author" />
@@ -60,10 +57,8 @@ No installation or hardware required. Launch **LarkOke Player** directly in your
 * 🎹 **Low-Latency SpessaSynth MIDI Engine:** Hardware-grade sound synthesis with key transpose (-6 to +6), tempo controls, and melody guide toggles.
 * 🎙️ **Live Microphone & Vocal Recording Studio:** Sing with live mic input monitoring, record your performance with video background, and export/share audio & video tracks.
 * 🎯 **Real-Time Pitch Scorer & Cheer System:** Dynamic performance evaluation and scoring with randomized audience applause and cheering sounds.
-* 🎬 **Dynamic 4K Video Backgrounds:** Multiple video loop presets, audio-reactive canvas visualizers, and custom video/image upload support.
 * 📋 **Live Song Queue & Reserve:** Queue up your next tracks seamlessly with priority reserve while a song is currently playing.
 * 📁 **Offline Desktop Mode:** Standalone Electron app that plays directly from local hard drive song folders with zero internet dependency.
-* 📱 **Mobile & TV Responsive:** Fullscreen videoke layout tailored for mobile browsers, desktop monitors, and living room smart TVs.
 
 ---
 
