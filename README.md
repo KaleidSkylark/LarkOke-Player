@@ -54,12 +54,16 @@ No installation or hardware required. Launch **LarkOke Player** directly in your
 
 ---
 
-## ✨ Highlights
+## ✨ Highlights & Features
 
-* 🎵 **47,997 Built-In Songs:** Instant search by song title, artist, or code across a massive OPM and international catalog.
-* 🎹 **Low-Latency MIDI/KAR Playback:** Fast browser-based synthesis with customizable key transpose, tempo controls, and melody guide toggles.
-* 📋 **Live Song Queue & Reserve:** Queue up your next tracks seamlessly while a song is currently playing.
-* 🖥️ **Cross-Platform Ready:** Engineered for Web browsers and standalone Desktop environments.
+* 🎵 **47,997 Built-In Songs:** Instant search by song title, artist, or 6-digit code across a massive OPM and international catalog.
+* 🎹 **Low-Latency SpessaSynth MIDI Engine:** Hardware-grade sound synthesis with key transpose (-6 to +6), tempo controls, and melody guide toggles.
+* 🎙️ **Live Microphone & Vocal Recording Studio:** Sing with live mic input monitoring, record your performance with video background, and export/share audio & video tracks.
+* 🎯 **Real-Time Pitch Scorer & Cheer System:** Dynamic performance evaluation and scoring with randomized audience applause and cheering sounds.
+* 🎬 **Dynamic 4K Video Backgrounds:** Multiple video loop presets, audio-reactive canvas visualizers, and custom video/image upload support.
+* 📋 **Live Song Queue & Reserve:** Queue up your next tracks seamlessly with priority reserve while a song is currently playing.
+* 📁 **Offline Desktop Mode:** Standalone Electron app that plays directly from local hard drive song folders with zero internet dependency.
+* 📱 **Mobile & TV Responsive:** Fullscreen videoke layout tailored for mobile browsers, desktop monitors, and living room smart TVs.
 
 ---
 
@@ -68,9 +72,11 @@ No installation or hardware required. Launch **LarkOke Player** directly in your
 | Layer | Technology |
 | :--- | :--- |
 | **Web & SEO Framework** | [Next.js](https://nextjs.org/) & [React](https://react.dev/) |
+| **Audio & MIDI Synthesizer** | [SpessaSynth](https://github.com/spessasus/SpessaSynth) (SoundFont 2.0 WebAudio/AudioWorklet) |
+| **Vocal Recording & Canvas** | MediaStream Recording API & Web Audio API Gain/Filter Nodes |
+| **Cloud Storage & CDN** | [Cloudflare R2](https://www.cloudflare.com/products/r2/) & [Vercel](https://vercel.com/) |
 | **Desktop Runtime** | [Electron](https://www.electronjs.org/) |
 | **Frontend Tooling & Bundler** | [Vite](https://vitejs.dev/) |
-| **Deployment** | [Vercel](https://vercel.com/) |
 
 ---
 
