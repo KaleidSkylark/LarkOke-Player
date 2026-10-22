@@ -46,7 +46,7 @@ No installation or hardware required. Launch **LarkOke Player** directly in your
 
 <div align="center">
   <p><strong>🎶 Songbook Queue, Real-Time Lyrics & Interactive Visual Engine</strong></p>
-  <img src="https://github.com/user-attachments/assets/c1317c2f-d3ba-4106-8d4d-8275e87d4697" alt="LarkOke Player Interface Preview" width="850" />
+  <img src="https://scontent.fmnl13-6.fna.fbcdn.net/v/t1.15752-9/857225053_1671189367731170_7157897022202032148_n.png?stp=dst-png&cstp=mx1918x907&ctp=s1918x907&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMJjuKa9NY_P7_4OHsp3qsv5QZc9JWeOy_lBlz0lZ47EgaZI1WlId99x39FL0M0YaZ3rww8mn4Zq2cmXq3Dm4z&_nc_ohc=GlyelueNCvQQ7kNvwFiH2Co&_nc_oc=AdrNLK7JxDLiCTFdxcW1uLf28UZ5OrDeM66gaMfYlCn_RdiqFy4Luiv83xjQqrhapT4m7aNDaBopQ2Tb0wPDdl2s&_nc_zt=23&_nc_ht=scontent.fmnl13-6.fna&_nc_ss=7b2a8&oh=03_Q7cD6gGqKJoTt9fqf7fZSj1O_2L-JTCPELtL-PIe_R2A1QEfeQ&oe=6B018FBD" alt="LarkOke Player Interface Preview" width="850" />
 </div>
 
 ---
@@ -59,6 +59,7 @@ No installation or hardware required. Launch **LarkOke Player** directly in your
 * 🎯 **Real-Time Pitch Scorer & Cheer System:** Dynamic performance evaluation and scoring with randomized audience applause and cheering sounds.
 * 📋 **Live Song Queue & Reserve:** Queue up your next tracks seamlessly with priority reserve while a song is currently playing.
 * 📁 **Offline Desktop Mode:** Standalone Electron app that plays directly from local hard drive song folders with zero internet dependency.
+* 🤖 **Offline Android Mode:** Standalone Capacitor app that plays directly from local hard drive song folders with zero internet dependency.
 
 ---
 
